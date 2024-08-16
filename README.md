@@ -1,2 +1,3 @@
 # College-website
-Texas College Clone web site by using html css and lite javascript
+Texas College Clone web site by using html css and lite javascript and bootstraps
+
